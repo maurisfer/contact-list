@@ -1,0 +1,12 @@
+{
+  "name": "teste/contacts",
+  "description": "",
+  "autoload": {
+    "psr-4": {
+      "Contact\\": "App/"
+    }
+  },
+  "require": {
+    "twbs/bootstrap": "5.0.0-beta3"
+  }
+}
